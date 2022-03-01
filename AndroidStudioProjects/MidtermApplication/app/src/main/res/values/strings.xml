@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Midterm Application</string>
+    <string name="your_name">Your Name</string>
+    <string name="crush_s_name">Crush\'s Name</string>
+    <string name="flames">FLAMES</string>
+    <string name="result">RESULT....</string>
+</resources>

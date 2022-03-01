@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InterestChecking
+comment1.params=acctnum\ name\ bal\ minimum\ charge\ intrate\ minint\ moncharge
+comment1.target=InterestChecking(int,\ java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=boolean\ interest()
+comment3.params=
+comment3.target=void\ print()
+numComments=4
